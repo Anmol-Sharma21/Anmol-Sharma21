@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hey there 👋, I'm [ANMOL !](https://github.com/Anmol-Sharma21/)👋
 
-<!--
-**Anmol-Sharma21/Anmol-Sharma21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Anmol_Sharma21)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anmol-sharma-5582b9262/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/anmol_sharmaa21/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Glad to see you here!
+
+I am Anmol Sharma , pursuing Btech Computer Science from Delhi Technological University . I am a passionate tech enthusiast with expertise in web development, AI/ML, and Swift development. I am always eager to collaborate on projects and explore innovative ideas. Feel free to reach out to me for potential partnerships and collaborations.
+
+Like My Work?
+
+<a href="https://www.buymeacoffee.com/anmolsharma21" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>

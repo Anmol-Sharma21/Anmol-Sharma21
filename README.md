@@ -12,3 +12,7 @@ I am Anmol Sharma , pursuing Btech Computer Science from Delhi Technological Uni
 Like My Work?
 
 <a href="https://www.buymeacoffee.com/anmolsharma21" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+
+<a href="#macropower-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=anmol-sharma21&count_private=true&show_icons=true&include_all_commits=true" alt="macropower" align="right" />
+</a>

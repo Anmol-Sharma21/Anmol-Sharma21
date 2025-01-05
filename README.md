@@ -9,6 +9,8 @@
 
 I am Anmol Sharma , pursuing Btech Computer Science from Delhi Technological University . I am a passionate tech enthusiast with expertise in web development, AI/ML, and Swift development. I am always eager to collaborate on projects and explore innovative ideas. Feel free to reach out to me for potential partnerships and collaborations.
 
+I have valuable work experience as an Applied Machine Learning Intern at Avizva, where I worked on building a Healthcare AI Assistant called VIZCare Copilot, leveraging Retrieval-Augmented Generation (RAG) models.
+
 Like My Work?
 
 <a href="https://www.buymeacoffee.com/anmolsharma21" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
